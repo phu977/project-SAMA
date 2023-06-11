@@ -1,2 +1,2 @@
 # project-SAMA
-link deploy: knowing-cup.surge.sh
+link deploy: bright-thumb.surge.sh
